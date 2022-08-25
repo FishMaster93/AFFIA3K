@@ -14,7 +14,7 @@ For the purpose of open access, the authors have applied a creative commons attr
 
 
 
-The following figures are images and audio Mel-spectrum with different fish feeding intensity.
+The following figures are images and audio Mel-spectrogram with different fish feeding intensity.
 
  
 
