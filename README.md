@@ -11,4 +11,4 @@ We also have released the video dataset corresponding to audio.
 
 For the purpose of open access, the authors have applied a creative commons attribution(CC BY) licence to dataset.
 
-![image](https://github.com/FishMaster93/AFFIA3K/fish_feeding.png) 
+![image](https://github.com/FishMaster93/AFFIA3K/blob/main/fish_feeding.png) 
