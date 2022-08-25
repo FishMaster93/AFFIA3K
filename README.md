@@ -11,5 +11,12 @@ https://drive.google.com/drive/folders/1SFwB6Fa4Cnki995QPdQio8rODFkRmScH
 
 For the purpose of open access, the authors have applied a creative commons attribution(CC BY) licence to dataset.
 
-![image](https://github.com/FishMaster93/AFFIA3K/blob/main/fish_feeding.png) 
+
+
+
+The following figures are images and audio Mel-spectrum with different fish feeding intensity.
+
+ 
+
+![image](https://github.com/FishMaster93/AFFIA3K/blob/main/fish_feeding_intensity.png) 
 ![image](https://github.com/FishMaster93/AFFIA3K/blob/main/871.png)
